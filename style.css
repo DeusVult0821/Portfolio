@@ -76,3 +76,10 @@ background: #212121;
 .image:hover .boy{
     left: 45%;
 }
+.container {
+    display: left;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+
